@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamadcamzis
+- 👋 Hi, I’m Mamadou CAMARA
 - 👀 I’m interested in solving business problem using AI and IT
 - 🌱 I’m currently learning Azure Devops
 - 💞️ I’m looking to collaborate on  such  problmes
